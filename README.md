@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Sharafat Ali
 
-<!--
-**sharaftali/sharaftali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Backend Engineer** | Python · Django · FastAPI · 5+ years
 
-Here are some ideas to get you started:
+I build scalable backend systems, REST APIs, and AI-powered platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** Python, SQL
+- **Frameworks:** Django, DRF, FastAPI, Flask
+- **Databases:** PostgreSQL, Redis
+- **Cloud:** GCP, Docker, Kubernetes, GitHub Actions
+
+## 📌 Featured Projects
+- **[Meichta]** – LLM-powered conversational platform (75% latency reduction)
+- **[IDClear]** – AML compliance APIs for fintech
+- **[Crawling Engine]** – Production web crawler (5K pages, anti-bot)
+
+## 📫 Contact
+- Work email: sharafatali.work@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sharaftali
